@@ -195,7 +195,7 @@ img{
 }
 
 .card-desc p{
-    line-height: 30px;
+    line-height: 26px;
 }
 
 
@@ -286,7 +286,7 @@ img{
     .cards{
         flex-direction: column;
         width: 100%;
-        gap: 28px;
+        gap: 30px;
     }
 
     .card-img{
