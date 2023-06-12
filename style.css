@@ -250,6 +250,7 @@ img{
     .container{
         width: 95%;
         height: 100%;
+        margin-top: 0%;
     }
 
     .links-list{
